@@ -1,6 +1,6 @@
 # Java API
 
-This project is a Springboot Web Application that performs CRUD operations on an in-memory database created with MySQL.
+This project is a Springboot Web Application that performs CRUD operations on a MySQL database.
 It uses Springboot Data JPA to map Topics and Courses classes to SQL tables.
 
 ## Installation
